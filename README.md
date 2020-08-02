@@ -7,9 +7,9 @@ run GUI `python GUI.py`
 #### Home
 [![](https://i.imgur.com/7J9fWyE.jpg "")](https://i.imgur.com/7J9fWyE.jpg "")
 [![](https://i.imgur.com/K8j2FIh.jpg)](https://i.imgur.com/K8j2FIh.jpg)
-####Info get coin pair price, account balance
+#### Info get coin pair price, account balance
 [![](https://imgur.com/wahrc15.jpg)](https://imgur.com/wahrc15.jpg)
-####Setting fill API key
+#### Setting fill API key
 [![](https://i.imgur.com/MxWP1mY.jpg)](https://i.imgur.com/MxWP1mY.jpg)
 
 ### Algo
